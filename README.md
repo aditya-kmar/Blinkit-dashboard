@@ -53,3 +53,5 @@ Support strategic decisions through data-driven insights
 ⭐ If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
 
 #PowerBI #DataAnalytics #BusinessIntelligence #Dashboard #DataVisualization #Blinkit #DAX #PowerQuery #GitHubProjects 🚀
+
+This is the preview of dashbaord https://github.com/aditya-kmar/Blinkit-dashboard/blob/main/Screenshot%202026-06-20%20151600.png
